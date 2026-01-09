@@ -1,5 +1,7 @@
 # 🤖 Arduino Bluetooth 4WD Car with Servo Claw
 
+<video src="Demo3.mp4" controls width="600"></video>
+
 This project demonstrates how to control a **4-wheel drive (4WD) robotic car** with an attached **servo-powered claw** using Arduino and Bluetooth.  
 The car can move in all directions, adjust speed levels, and operate the claw via Bluetooth commands.
 
